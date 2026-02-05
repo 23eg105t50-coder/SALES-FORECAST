@@ -95,3 +95,15 @@ The project combines **data cleaning, regression modeling, forecast evaluation, 
 
 ---
 
+---
+
+## 👤 Author
+**Nikhil Rampelly**  
+Data Analyst | Power BI | Qlik Sense | SQL | Python | Machine Learning  
+
+---
+
+## ⭐ Feedback
+If you found this project useful, feel free to ⭐ star the repository.
+
+
